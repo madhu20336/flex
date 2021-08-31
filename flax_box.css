@@ -1,0 +1,146 @@
+.container{
+    height: 80px;
+    width: 100%;
+    border: 2px solid  #f93d66, #6d47d9;
+    /* border: 5px solid black; */
+    display: flex;
+    margin: 0%;
+    margin-top: 3%;
+}
+body {
+    background-image: url(./images/topography.svg), linear-gradient(
+110deg
+, #f93d66, #6d47d9);
+}
+.item{
+    width: 500px;
+    background-color: #ffc600;
+    border: 2px solid 110deg, #f93d66, #6d47d9;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+
+   
+}
+.top{
+    display:flex;
+    height: 400px;
+    width: 100%;
+    margin-top: 5%;
+    border: 2px solid 110deg, #f93d66, #6d47d9;
+    background-repeat: no-repeat;
+    background-image: url(taco.jpg);
+
+}
+.top{
+    background-image: url(taco.jpg);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: bottom;
+    background-size: 69%;
+    margin: 0%;
+}
+
+#yht-1{
+    height: 19%;
+    width: 393px;
+    background-color: #ffc600;
+    margin: 10%;
+        margin-left: 275%;
+        margin-top: 0%;
+        margin-bottom: 6%;
+        margin-right: 6%;
+    padding: 14%;;
+}
+.new{
+height: 3%;
+width: 155px;
+background-color:#ffc600;
+padding: 8%;
+margin: 0%;
+margin-left: 66px;
+margin-bottom: 9%;
+margin-right: 5%;
+margin-top: 77%;
+
+}
+.new1{
+    height: 7%;
+    width: 167px;
+    background-color:  #ffc600;
+    margin-left: 32%;
+}
+
+.Box{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    border: 2px solid  #f93d66, #6d47d9;
+    /* display:flex ; */
+   
+}
+#box-1{
+    height:100% ;
+    width:450px ;
+    background-color: white;
+    margin: 5px;
+    /* flex-grow: 2; */
+}
+#box-2{
+    height:100% ;
+    width:450px ;
+    background-color: white;
+    margin: 5px;
+    /* flex-grow: 2; */
+}
+#box-3{
+    height:100% ;
+    width:450px ;
+    background-color: white;
+    margin: 5px;
+    /* flex-grow: 2; */
+    
+}
+#box-4{
+    height:100% ;
+    width:450px ;
+    background-color: white;
+    margin: 5px;
+    /* flex-grow: 2; */
+}
+.about{
+    display: flex;
+    height:70px;
+    width: 200%;
+    border: 2px solid #f93d66, #6d47d9;
+    background-color: white;  
+}
+.About{
+    height: 305px;
+    width: 100%;
+}
+.about_details{
+    margin-bottom: 20px;
+    margin-top: 2%;
+}
+.flex{
+    display: flex;
+}
+button{
+   background-color:  #ffc600;
+   height: 40px;
+   width: 30%;
+}
+.Image_item{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+h1.data{
+    text-align: center;
+    font-size: 47px;
+}
+p.data1{
+    text-align: center;
+    margin: -7%;
+
+}
